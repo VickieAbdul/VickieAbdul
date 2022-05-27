@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @VickieAbdul
 - 👀 I’m interested in Data Analytics, Big Data and Statistics.
-- 🌱 I’m currently learning Python programming as part of the professional course that I am taking on IBM for a certification in Data Analytics.
+- 🌱 I’m conversant but still working on perfecting my programming skills in R, though I learnt a bit about Python programming On Coursera.
+- 💪 I recently completed my Google Data Analytics professional certification.
+- 💪 I also recently completed a course in Data Analytics organized by Entry level.
 - 💞️ I’m looking to collaborate on any Data Analysis Project.
 - 📫 How to reach me: victoria.inoyo@gmail.com
 
