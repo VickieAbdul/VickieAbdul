@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, Data Science.
 - 🌱 I’m conversant but still working on perfecting my programming skills in R, and Python.
 - 💪 I recently completed a data collections project for the state I reside in.
-- 💪 I am a certified data scientist.
+- 💪 I am an IABAC certified data scientist.
 - 💞️ I’m looking to collaborate on any Data Science and Analytics Projects.
 - 📫 How to reach me: victoria.inoyo@gmail.com
 
