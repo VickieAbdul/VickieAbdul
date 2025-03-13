@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VickieAbdul
-- 👀 I’m interested in Data Analytics, Data Science.
+- 👀 I’m interested in Data Analytics.
 - 🌱 I’m conversant but still working on perfecting my programming skills in R, and Python.
 - 💪 I recently completed a data collections project for the state I reside in.
 - 💪 I am an IABAC certified data scientist.
