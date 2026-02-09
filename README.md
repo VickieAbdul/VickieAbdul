@@ -4,7 +4,7 @@
 - 💪 I recently completed a data collections project for the state I reside in.
 - 💪 I am an IABAC certified data scientist.
 - 💞️ I’m looking to collaborate on any Data Science and Analytics Projects.
-- 📫 How to reach me: victoria.inoyo@gmail.com
+- 📫 How to reach me: victoria.j.abdulkadir@gmail.com
 
 <!---
 VickieAbdul/VickieAbdul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
